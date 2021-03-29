@@ -31,30 +31,30 @@ public class SortAlgorithmMenu {
 		     switch (choice) {
 		     
 		     case 1:
-				     System.out.println("--- Initial Array ---");
-				     sort.printArr((arr));
-				     break;
+				  System.out.println("--- Initial Array ---");
+				  sort.printArr((arr));
+				  break;
 		     case 2:
-				     System.out.println("--- Bubble Sort ---");
-				     System.out.println("\n");
-				     int bubble[] = arr.clone();
-				     sort.bubbleSort(bubble);
-				     sort.printArr(bubble);
-				     break;
+				  System.out.println("--- Bubble Sort ---");
+				  System.out.println("\n");
+				  int bubble[] = arr.clone();
+				  sort.bubbleSort(bubble);
+				  sort.printArr(bubble);
+				  break;
 		     case 3:
-				     System.out.println("--- Selection Sort ---");
-				     System.out.println("\n");
-				     int selection[] = arr.clone();
-				     sort.selectionSort(selection);
-				     sort.printArr(selection);
-		                     break;
+				  System.out.println("--- Selection Sort ---");
+				  System.out.println("\n");
+				  int selection[] = arr.clone();
+				  sort.selectionSort(selection);
+				  sort.printArr(selection);
+		                  break;
 		     case 4:        
-				     System.out.println("--- Insertion Sort ---");
-				     System.out.println("\n");
-				     int insertion[] = arr.clone();
-				     sort.insertionSort(insertion);
-				     sort.printArr(insertion);
-				     break;
+				  System.out.println("--- Insertion Sort ---");
+				  System.out.println("\n");
+				  int insertion[] = arr.clone();
+				  sort.insertionSort(insertion);
+				  sort.printArr(insertion);
+				  break;
 		     default:
 		    	 System.out.println("\n");
 		    	 System.out.println ("Sorting Algorithms Done...");
@@ -70,8 +70,7 @@ public class SortAlgorithmMenu {
 	       }
 	 }while(choice!=0);
 			 
-		System.out.println("Done.... ");
-		     
+	  System.out.println("Done.... ");		     
   }
 
 }

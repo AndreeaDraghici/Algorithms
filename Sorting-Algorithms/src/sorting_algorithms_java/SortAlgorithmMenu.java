@@ -32,7 +32,7 @@ public class SortAlgorithmMenu {
 		     case 1:
 				     System.out.println("--- Initial Array ---");
 				     sort.printArr((arr));
-					 break;
+				     break;
 		     case 2:
 				     System.out.println("--- Bubble Sort ---");
 				     System.out.println("\n");
@@ -46,7 +46,7 @@ public class SortAlgorithmMenu {
 				     int selection[] = arr.clone();
 				     sort.selectionSort(selection);
 				     sort.printArr(selection);
-		             break;
+		                     break;
 		     case 4:        
 				     System.out.println("--- Insertion Sort ---");
 				     System.out.println("\n");

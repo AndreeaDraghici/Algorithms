@@ -1,0 +1,41 @@
+package sorting_algorithms_java;
+
+public class SortAlgorithmMain {
+
+	public static void main(String[] args) {
+		
+		
+		
+     SortAlgorithm sort=new SortAlgorithm();
+     int[] arr= {13, 45, 2, 90, 66, 34,21, 32,10, 7, 5,56,11, 19, 23, 75, 88};
+     int choice=0;
+     switch (choice) {
+     
+     case 1:
+		     System.out.println("--- Initial Array ---");
+		     sort.printArr((arr));
+			 break;
+     case 2:
+		     System.out.println("--- Bubble Sort ---");
+		     int bubble[] = arr.clone();
+		     sort.bubbleSort(bubble);
+		     sort.printArr(bubble);
+		     break;
+     case 3:
+		     System.out.println("--- Selection Sort ---");
+		     int selection[] = arr.clone();
+		     sort.selectionSort(selection);
+		     sort.printArr(selection);
+             break;
+     case 4:        
+		     System.out.println("--- Insertion Sort ---");
+		     int insertion[] = arr.clone();
+		     sort.insertionSort(insertion);
+		     sort.printArr(insertion);
+		     break;
+     default:
+    	  System.out.println(choice+" ");
+	}
+     System.out.println ("Sosrting Algorithms Done...");
+  }
+}

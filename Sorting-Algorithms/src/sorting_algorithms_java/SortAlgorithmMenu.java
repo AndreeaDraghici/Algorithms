@@ -10,7 +10,7 @@ public class SortAlgorithmMenu {
     
     protected void DisplayMenu()
     { 
-  	    System.out.println("----- Sort Algorithm Menu -----");
+  	        System.out.println("----- Sort Algorithm Menu -----");
   		System.out.println("0.Exit");
   		System.out.println("1.Print Initial Array");
   		System.out.println("2.Print Bubble Sort");
@@ -25,7 +25,8 @@ public class SortAlgorithmMenu {
  do {
 	  try {  
 		    DisplayMenu();
-			choice=inputScan.nextInt();	
+		  
+		    choice=inputScan.nextInt();	
 		     
 		     switch (choice) {
 		     

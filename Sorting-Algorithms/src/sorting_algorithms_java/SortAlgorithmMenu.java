@@ -14,8 +14,8 @@ public class SortAlgorithmMenu {
   		System.out.println("0.Exit");
   		System.out.println("1.Print Initial Array");
   		System.out.println("2.Print Bubble Sort");
-  		System.out.println("3.Selection Sort");
-  		System.out.println("4.Insertion Sort");
+  		System.out.println("3.Print Selection Sort");
+  		System.out.println("4.Print Insertion Sort");
   		System.out.println("\nYour choice...");
     }
   	

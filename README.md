@@ -8,3 +8,5 @@ Selection Sort
 
 Insertion Sort
 
+Mathematical algorithms
+

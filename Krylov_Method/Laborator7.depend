@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617799352 source:c:\users\user\desktop\mn-labs\laborator7\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+

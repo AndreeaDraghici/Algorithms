@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\MN-LABS\Laborator4\Metoda_lui_Chio\Metoda_lui_Chio\main.cpp(37,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator4\Metoda_lui_Chio\Metoda_lui_Chio\main.cpp(39,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Metoda_lui_Chio.vcxproj -> C:\Users\user\Desktop\MN-LABS\Laborator4\Metoda_lui_Chio\Debug\Metoda_lui_Chio.exe

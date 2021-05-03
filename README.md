@@ -2,11 +2,11 @@
  
 Sorting Algorithms in Java: 
 
-1.Bubble Sort 
+ 1.Bubble Sort 
 
-3.Selection Sort
+ 2.Selection Sort
 
-5.Insertion Sort
+ 3.Insertion Sort
 
 
 Mathematical algorithms in C++ and Java:

@@ -24,6 +24,6 @@ Mathematical algorithms in C++ and Java:
 11. Newton Method
 12. Lagrange Method
 13. Hexagonal Numbers
-14. Triagonal Numbers
+14. Triangular Numbers
 
 

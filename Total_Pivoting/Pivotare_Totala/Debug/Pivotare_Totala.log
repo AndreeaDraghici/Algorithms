@@ -1,0 +1,10 @@
+﻿  Pivotare_Totala.cpp
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(27,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(36,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(50,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(52,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(63,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(65,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(98,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Pivotare_Totala\Pivotare_Totala.cpp(100,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pivotare_Totala.vcxproj -> C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Totala\Debug\Pivotare_Totala.exe

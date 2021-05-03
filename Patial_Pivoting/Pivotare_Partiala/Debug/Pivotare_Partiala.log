@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Partiala\Pivotare_Partiala\main.cpp(25,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Partiala\Pivotare_Partiala\main.cpp(31,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Partiala\Pivotare_Partiala\main.cpp(48,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Partiala\Pivotare_Partiala\main.cpp(50,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pivotare_Partiala.vcxproj -> C:\Users\user\Desktop\MN-LABS\Laborator2\Pivotare_Partiala\Debug\Pivotare_Partiala.exe

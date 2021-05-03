@@ -25,5 +25,6 @@ Mathematical algorithms in C++ and Java:
 12. Lagrange Method
 13. Hexagonal Numbers
 14. Triangular Numbers
+15. Pentagonal Numbers
 
 

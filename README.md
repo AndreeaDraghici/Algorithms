@@ -1,14 +1,12 @@
 # Algorithms
  
-Sorting Algorithms:
+Sorting Algorithms in Java:
 
 1.Bubble Sort
-
 2.Selection Sort
-
 3.Insertion Sort
 
-Mathematical algorithms:
+Mathematical algorithms in C++ and Java:
 
 1. Gaussian elimination method
 2. Gaussian method with partial pivoting and total pivoting

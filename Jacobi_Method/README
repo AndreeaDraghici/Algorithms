@@ -1,0 +1,1 @@
+Jacobi method for iteratively solving systems of linear equations.

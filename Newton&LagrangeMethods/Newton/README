@@ -1,0 +1,1 @@
+Approximation of functions by Newton interpolation.

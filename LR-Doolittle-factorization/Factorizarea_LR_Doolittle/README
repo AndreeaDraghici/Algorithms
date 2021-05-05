@@ -1,0 +1,1 @@
+LR Doolittle factorization of matrices applied to solving systems of linear equations.

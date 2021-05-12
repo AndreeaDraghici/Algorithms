@@ -1,4 +1,6 @@
 # Algorithms
+
+ The implementations from this repository were coded using C++ programming language and Java programming language.
  
 Sorting Algorithms in Java: 
 
@@ -9,7 +11,7 @@ Sorting Algorithms in Java:
  3.Insertion Sort
 
 
-Mathematical algorithms in C++ and Java:
+Mathematical algorithms in C++:
 
 1. Gaussian elimination method
 2. Gaussian method with partial pivoting and total pivoting
@@ -25,8 +27,12 @@ Mathematical algorithms in C++ and Java:
 12. Lagrange Method
 13. Simpson Method
 14. Trapezoidal Method
-15. Hexagonal Numbers
-16. Triangular Numbers
-17. Pentagonal Numbers
+
+
+Mathematical algorithms in Java:
+
+1. Hexagonal Numbers
+2. Triangular Numbers
+3. Pentagonal Numbers
 
 

@@ -23,8 +23,10 @@ Mathematical algorithms in C++ and Java:
 10. Fadeev Method
 11. Newton Method
 12. Lagrange Method
-13. Hexagonal Numbers
-14. Triangular Numbers
-15. Pentagonal Numbers
+13. Simpson Method
+14. Trapezoidal Method
+15. Hexagonal Numbers
+16. Triangular Numbers
+17. Pentagonal Numbers
 
 

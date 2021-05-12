@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\MN-LABS\Metoda_Trapezului\Metoda_Trapezului\Source.cpp(9,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\Metoda_Trapezului\Metoda_Trapezului\Source.cpp(12): warning C4715: 'f': not all control paths return a value
+  Metoda_Trapezului.vcxproj -> C:\Users\user\Desktop\MN-LABS\Metoda_Trapezului\Debug\Metoda_Trapezului.exe

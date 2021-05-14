@@ -2,6 +2,8 @@
 
  The implementations from this repository were coded using C++ programming language and Java programming language.
  
+ !!!!!    NOTE: Each repository also contains images with input and output data for each implemented algorithm.   !!!!!
+ 
 Sorting Algorithms in Java: 
 
  1.Bubble Sort 

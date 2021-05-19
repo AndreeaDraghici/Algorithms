@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\user\Desktop\MN-LABS\EvaluareaIntegralelorDuble\EvaluareaIntegralelorDuble\main.cpp(38,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\EvaluareaIntegralelorDuble\EvaluareaIntegralelorDuble\main.cpp(39,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\EvaluareaIntegralelorDuble\EvaluareaIntegralelorDuble\main.cpp(40,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\EvaluareaIntegralelorDuble\EvaluareaIntegralelorDuble\main.cpp(65,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\EvaluareaIntegralelorDuble\EvaluareaIntegralelorDuble\main.cpp(66,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\MN-LABS\EvaluareaIntegralelorDuble\EvaluareaIntegralelorDuble\main.cpp(67,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EvaluareaIntegralelorDuble.vcxproj -> C:\Users\user\Desktop\MN-LABS\EvaluareaIntegralelorDuble\Debug\EvaluareaIntegralelorDuble.exe

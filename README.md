@@ -29,7 +29,7 @@ Mathematical algorithms in C++:
 12. Lagrange Method
 13. Simpson Method
 14. Trapezoidal Method
-
+15. Numerical evaluation of double integrals on triangles.
 
 Mathematical algorithms in Java:
 
